@@ -1,7 +1,7 @@
 <template>
   <div>
     <header class="header">
-      <h1 class="header-title"><a href="/">Vue InstantSearch v2 starter</a></h1>
+      <h1 class="header-title"><a href="/">Vue InstantSearch v3 starter</a></h1>
       <p class="header-subtitle">
         using
         <a href="https://github.com/algolia/vue-instantsearch">
